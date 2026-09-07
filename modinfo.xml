@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modinfo>
+  <mod name="Video Vixen Career Mod">
+    <version major="1" minor="0" patch="0"/>
+    <author>Your Sim Modding Studio</author>
+    <description>
+      A complete career mod for The Sims 4 featuring the Video Vixen profession.
+      Rise from an aspiring content creator to a legend of digital media!
+      
+      Features:
+      - 10 unique career levels
+      - Progressive salary growth from $300 to $7,000 per day
+      - Custom career tasks and objectives
+      - Skill requirements that unlock as you progress
+      - Full integration with The Sims 4 career system
+    </description>
+    
+    <!-- Game requirements -->
+    <gameversion major="1" minor="80" patch="0"/>
+    <minspec name="Requires Script Mods Enabled" value="True"/>
+    
+    <!-- File listings -->
+    <file path="src/video_vixen_career.py"/>
+    <file path="Tuning/Video_Vixen_Career.xml"/>
+    
+    <!-- Mod dependencies (none required) -->
+    <dependencies/>
+    
+    <!-- Mod tags for search -->
+    <tags>
+      <tag>career</tag>
+      <tag>content-creator</tag>
+      <tag>influencer</tag>
+      <tag>job</tag>
+      <tag>vlogger</tag>
+      <tag>social-media</tag>
+    </tags>
+    
+    <!-- Update information -->
+    <updateinfo url="https://github.com/c8zvnbrrtk-cell/sims4-video-vixen-career"/>
+  </mod>
+</modinfo>
