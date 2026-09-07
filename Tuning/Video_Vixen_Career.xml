@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<M n="Video_Vixen_Career">
+  <!-- Video Vixen Career Definition -->
+  <T n="CareerData">
+    <E n="career_name">Video Vixen</E>
+    <E n="career_description">Create viral content and build your audience as a Video Vixen influencer!</E>
+    <E n="max_level">10</E>
+    <E n="experience_rate">1.0</E>
+    
+    <!-- Career Levels -->
+    <L n="levels">
+      <!-- Level 1: Aspiring Content Creator -->
+      <M>
+        <E n="level">1</E>
+        <E n="title">Aspiring Content Creator</E>
+        <E n="salary">300</E>
+        <L n="tasks">
+          <E>Film Videos</E>
+          <E>Edit Content</E>
+          <E>Gain Followers</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+        </L>
+      </M>
+      
+      <!-- Level 2: Up-and-Coming Vlogger -->
+      <M>
+        <E n="level">2</E>
+        <E n="title">Up-and-Coming Vlogger</E>
+        <E n="salary">500</E>
+        <L n="tasks">
+          <E>Create Trending Videos</E>
+          <E>Network Online</E>
+          <E>Respond to Comments</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+        </L>
+      </M>
+      
+      <!-- Level 3: Rising Star -->
+      <M>
+        <E n="level">3</E>
+        <E n="title">Rising Star</E>
+        <E n="salary">750</E>
+        <L n="tasks">
+          <E>Collaborate with Creators</E>
+          <E>Plan Series</E>
+          <E>Increase Views</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+          <E>Charisma</E>
+        </L>
+      </M>
+      
+      <!-- Level 4: Viral Sensation -->
+      <M>
+        <E n="level">4</E>
+        <E n="title">Viral Sensation</E>
+        <E n="salary">1200</E>
+        <L n="tasks">
+          <E>Go Viral</E>
+          <E>Sponsor Content</E>
+          <E>Expand Audience</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+          <E>Charisma</E>
+        </L>
+      </M>
+      
+      <!-- Level 5: Internet Celebrity -->
+      <M>
+        <E n="level">5</E>
+        <E n="title">Internet Celebrity</E>
+        <E n="salary">1800</E>
+        <L n="tasks">
+          <E>Host Live Events</E>
+          <E>Create Branded Content</E>
+          <E>Mentor Newcomers</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+          <E>Charisma</E>
+          <E>Cooking</E>
+        </L>
+      </M>
+      
+      <!-- Level 6: Media Influencer -->
+      <M>
+        <E n="level">6</E>
+        <E n="title">Media Influencer</E>
+        <E n="salary">2500</E>
+        <L n="tasks">
+          <E>Manage Brand Deals</E>
+          <E>Produce High-Quality Content</E>
+          <E>Lead Team</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+          <E>Charisma</E>
+          <E>Business</E>
+        </L>
+      </M>
+      
+      <!-- Level 7: Content King/Queen -->
+      <M>
+        <E n="level">7</E>
+        <E n="title">Content King/Queen</E>
+        <E n="salary">3500</E>
+        <L n="tasks">
+          <E>Direct Content Team</E>
+          <E>Negotiate Partnerships</E>
+          <E>Create Exclusive Content</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+          <E>Charisma</E>
+          <E>Business</E>
+          <E>Comedy</E>
+        </L>
+      </M>
+      
+      <!-- Level 8: Entertainment Icon -->
+      <M>
+        <E n="level">8</E>
+        <E n="title">Entertainment Icon</E>
+        <E n="salary">4500</E>
+        <L n="tasks">
+          <E>Produce Original Series</E>
+          <E>Launch New Platforms</E>
+          <E>Industry Leadership</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+          <E>Charisma</E>
+          <E>Business</E>
+          <E>Comedy</E>
+        </L>
+      </M>
+      
+      <!-- Level 9: Media Mogul -->
+      <M>
+        <E n="level">9</E>
+        <E n="title">Media Mogul</E>
+        <E n="salary">5500</E>
+        <L n="tasks">
+          <E>Run Production Studio</E>
+          <E>Mentor Industry Talent</E>
+          <E>Create Blockbuster Content</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+          <E>Charisma</E>
+          <E>Business</E>
+          <E>Comedy</E>
+          <E>Logic</E>
+        </L>
+      </M>
+      
+      <!-- Level 10: Legend of Digital Media -->
+      <M>
+        <E n="level">10</E>
+        <E n="title">Legend of Digital Media</E>
+        <E n="salary">7000</E>
+        <L n="tasks">
+          <E>Define Industry Standards</E>
+          <E>Oversee Empire</E>
+          <E>Inspire Next Generation</E>
+        </L>
+        <L n="skills">
+          <E>Video Production</E>
+          <E>Social Media</E>
+          <E>Charisma</E>
+          <E>Business</E>
+          <E>Comedy</E>
+          <E>Logic</E>
+        </L>
+      </M>
+    </L>
+  </T>
+  
+  <!-- Career Tasks Definition -->
+  <T n="CareerTasks">
+    <L n="tasks">
+      <M n="film_videos">
+        <E n="name">Film Videos</E>
+        <E n="description">Create new video content</E>
+        <E n="experience_gain">25</E>
+        <E n="time_required">3</E>
+      </M>
+      
+      <M n="edit_content">
+        <E n="name">Edit Content</E>
+        <E n="description">Edit and polish your videos</E>
+        <E n="experience_gain">20</E>
+        <E n="time_required">2</E>
+      </M>
+      
+      <M n="gain_followers">
+        <E n="name">Gain Followers</E>
+        <E n="description">Promote your content online</E>
+        <E n="experience_gain">15</E>
+        <E n="time_required">2</E>
+      </M>
+      
+      <M n="collaborate">
+        <E n="name">Collaborate with Creators</E>
+        <E n="description">Partner with other content creators</E>
+        <E n="experience_gain">35</E>
+        <E n="time_required">4</E>
+      </M>
+      
+      <M n="go_viral">
+        <E n="name">Go Viral</E>
+        <E n="description">Create content that goes viral</E>
+        <E n="experience_gain">50</E>
+        <E n="time_required">5</E>
+      </M>
+      
+      <M n="trending_videos">
+        <E n="name">Create Trending Videos</E>
+        <E n="description">Keep up with current trends</E>
+        <E n="experience_gain">28</E>
+        <E n="time_required">3</E>
+      </M>
+      
+      <M n="network_online">
+        <E n="name">Network Online</E>
+        <E n="description">Connect with other influencers</E>
+        <E n="experience_gain">22</E>
+        <E n="time_required">2</E>
+      </M>
+      
+      <M n="respond_comments">
+        <E n="name">Respond to Comments</E>
+        <E n="description">Engage with your audience</E>
+        <E n="experience_gain">18</E>
+        <E n="time_required">1</E>
+      </M>
+    </L>
+  </T>
+</M>
